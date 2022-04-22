@@ -3,8 +3,8 @@ $textColor-button: #FF0000;
 $textColor-buttonHover: #00FF00;
 button {
     color: $textColor-button;
-
-&:hover {
-    color: $textColor-buttonHover;
-}
+    
+    &:hover {
+        color: $textColor-buttonHover;
+    }
 }
