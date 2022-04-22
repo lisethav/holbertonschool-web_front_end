@@ -1,10 +1,7 @@
 /* 5. Nested child */
-$textColor: #3D3D3D;
-$textColor-Red: #FF0000;
-
 body {
-    color: $textColor;
+    color: #3D3D3D;
 }
 body > .red {
-    color: $textColor-Red;
+    color: #FF0000;
 }
