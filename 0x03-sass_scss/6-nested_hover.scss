@@ -1,0 +1,9 @@
+/* 6. Nested hover */
+$textColor-button: #FF0000;
+$textColor-buttonHover: #00FF00;
+button {
+    color: $textColor-button;
+}
+button:hover {
+    color: $textColor-buttonHover;
+}
