@@ -1,9 +1,7 @@
 /* 4. Nested class */
-$textColor: #3D3D3D;
-$textColor-red: #FF0000;
 body {
-    color: $textColor;
+    color: #3D3D3D;
+.red {
+    color: #FF0000; 
 }
-body .red {
-    color: $textColor-red;
 }
