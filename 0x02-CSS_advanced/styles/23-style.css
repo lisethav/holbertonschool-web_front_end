@@ -356,12 +356,12 @@ ul.row {
     --section-title-color: var(--color-white);
     background-color: var(--color-black);
 }
-.footer-address {  
+.footer-address {
     color: var(--text-color);
 }
 .social-link {
     display: block;
 }
--social-ling >svg {
+.social-link > svg {
     fill: var(--text-color);
 }
