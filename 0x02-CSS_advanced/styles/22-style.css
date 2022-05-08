@@ -338,11 +338,6 @@ ul.row {
     float: left;
     padding: 0.5rem;
 }
-[data-section-theme=“dark”] {
-    --text-color: var(--color-white);
-    --section-title-color: var(--color-white);
-    background-color: var(--color-black)
-}
 .footer-copyright {
     margin: 0;
     font-size: var(--font-size-small);
@@ -355,4 +350,9 @@ ul.row {
     content: "";
     display: table;
     clear: both;
+}
+[data-section-theme=“dark”] {
+    --text-color: var(--color-white);
+    --section-title-color: var(--color-white);
+    background-color: var(--color-black)
 }
